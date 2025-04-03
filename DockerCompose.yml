@@ -2,4 +2,4 @@ services:
   community_portfolio:
     image: priyabhowal08/community_portfolio
     ports:
-      - "0.0.0.0::3000"
+      - "3000:3000"
