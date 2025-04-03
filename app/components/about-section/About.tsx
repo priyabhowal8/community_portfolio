@@ -33,7 +33,7 @@ export default function About() {
       <div className="grid grid-cols-1 lg:grid-cols-[8.5fr_3.5fr] gap-8 mt-6">
         <div className="grid grid-cols-1 antialiased gap-6 text-white/80 text-xl md:text-2xl">
           <AnimatedBody className="leading-[34px] md:leading-[39px]">
-            My expertise lies in building and maintaining robust cloud infrastructure and automated deployment pipelines. 
+            My expertise mainly lies in building and maintaining robust cloud infrastructure and automated deployment pipelines. 
             I specialize in creating scalable, reliable, and secure systems that empower businesses to deliver value 
             faster. From containerization to infrastructure as code, I transform complex deployment processes into 
             streamlined operations.
